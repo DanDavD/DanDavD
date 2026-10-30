@@ -15,7 +15,7 @@
 
 <h2>YouTube Videos</h2>
 
-- [Horde Carnage - Gameplay Showcase](video-link-1)
+- [Horde Carnage - Gameplay Showcase](https://youtu.be/Oz9MaF9-lhU?si=sBYQJA1JJ-4oeXbH)
 - [Horde Carnage - Technical Breakdown & Architecture](video-link-2)
 - [Echo Protocol - Multiplayer Gameplay Showcase](video-link-3)
 - [Echo Protocol - Technical Breakdown & Steam Networking](video-link-4)
