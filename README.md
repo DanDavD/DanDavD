@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel <br/><a href="https://github.com/DanDavD">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-david242004">Game Developer</a>, <a href="https://www.youtube.com/@danieldavid2431">YouTuber (Kinda) </a></h1>
+<h1>Hi, I'm Daniel <br/><a href="https://github.com/DanDavD">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-david242004">Game Developer</a>
 
 <h2>Game & Software Development Projects:</h2>
 
