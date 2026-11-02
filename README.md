@@ -12,10 +12,12 @@
 - <b>Full Stack Web</b>
   - [Koara Backend (NestJS, PostgreSQL & REST APIs)](https://github.com/AzaliaFlores19/Koara_backend)
   - [Koara Frontend (React & TypeScript)](https://github.com/AzaliaFlores19/koara_frontend)
+- <b>ActionScript 3 (Adobe AIR)</b>
+  - [Mini Hack and Slash (Pure AS3 Desktop Game on Harman AIR)](https://github.com/DanDavD/as3-hack-and-slash)
 
 <h2>Play in Your Browser</h2>
 
-- [Horde Carnage - Playable Demo on itch.io](https://dandavd.itch.io/horde-carnage-demo)
+- [Horde Carnage - Playable Demo on itch.io]((https://dandavd.itch.io/horde-carnage-demo))
 
 <h2>YouTube Videos</h2>
 
