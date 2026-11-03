@@ -8,7 +8,7 @@
 - <b>C# (Unity 6)</b>
   - [Echo Protocol (Voice-Controlled Co-op Horror Game with Fish-Net & Steam)](https://github.com/DanDavD/EchoGame)
 - <b>Databases & Systems</b>
-  - [Heterogeneous Master-Slave Synchronizer (PostgreSQL & IBM DB2)](https://github.com/DanDavD/synchronizerDB2)
+  - [DB2 Manager (IBM Db2 Administration Tool in Java, Swing & JDBC)](https://github.com/DanDavD/db2manager)
 - <b>Full Stack Web</b>
   - [Koara Backend (NestJS, PostgreSQL & REST APIs)](https://github.com/AzaliaFlores19/Koara_backend)
   - [Koara Frontend (React & TypeScript)](https://github.com/AzaliaFlores19/koara_frontend)
