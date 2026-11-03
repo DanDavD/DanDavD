@@ -3,7 +3,7 @@
 <h2>Game & Software Development Projects:</h2>
 
 - <b>C++ (Game Development & Low-Level Architecture)</b>
-  - [Horde Carnage (Top-Down Boss Fight with Custom Engine & raylib)](https://github.com/DanDavD/Horde-Carnage) · [▶ Play](https://dandavd.itch.io/horde-carnage-demo)
+  - [Horde Carnage (Top-Down Boss Fight with Custom Engine & raylib)](https://github.com/DanDavD/Horde-Carnage) · [▶ Play](https://dandavd.itch.io/horde-carnage-demo) · [Roadmap (Trello)](https://trello.com/b/4Ii5Aoep/horde-carnage-roadmap)
   - [Deterministic Finite Automata System (Custom Data Structures & Algorithms)](https://github.com/DanDavD/Deterministic-Finite-Automata-System)
 - <b>C# (Unity 6)</b>
   - [Echo Protocol (Voice-Controlled Co-op Horror Game with Fish-Net & Steam)](https://github.com/DanDavD/EchoGame)
